@@ -18,6 +18,7 @@ No Results
   <img src="https://img.shields.io/badge/TestRail-16A085?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ## 🧪 Cypress E2E Tests – Login, Registration, Profile & Article (CI/CD)
