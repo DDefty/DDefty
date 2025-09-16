@@ -1,4 +1,3 @@
-No Results
 # 👋 Hi, I'm Dawid!
 
 ## 🚀 About Me
